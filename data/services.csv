@@ -1,0 +1,5 @@
+service_name,keywords,cancel_url
+Netflix,"netflix,ネットフリックス",https://www.netflix.com/youraccount
+Spotify,"spotify,スポティファイ",https://www.spotify.com/jp/account/overview/
+Amazon Prime,"amazon prime,プライム",https://www.amazon.co.jp/mc/manage
+YouTube Premium,"youtube premium,ユーチューブ",https://www.youtube.com/paid_memberships
